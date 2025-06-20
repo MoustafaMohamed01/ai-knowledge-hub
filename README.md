@@ -4,12 +4,12 @@ A curated collection of my most insightful discussions from the Kaggle Community
 
 ## Contents
 
-| Title | Topic | Medals |
-|-------|-------|---------|
-| [Overview of Machine Learning Models](./discussions/overview-ml-models.md) | General | 🥉 |
-| [Essential Visualizations in Data Analysis](./discussions/essential-visualizations.md) | General | 🥇 |
-| [The Importance of Heatmaps in ML](./discussions/importance-of-heatmaps.md) | General | 🥈 |
-| [Why Data Analysis is Important](./discussions/why-data-analysis-important.md) | Getting Started | 🥉 |
+| Title | Topic | Medals | Discussions |
+|-------|-------|--------|-------------|
+| [Overview of Machine Learning Models](./discussions/overview-ml-models.md) | General | 🥉 | [Discuss](https://www.kaggle.com/discussions/general/585319) |
+| [Essential Visualizations in Data Analysis](./discussions/essential-visualizations.md) | General | 🥇 | [Discuss](https://www.kaggle.com/discussions/general/583451) |
+| [The Importance of Heatmaps in ML](./discussions/importance-of-heatmaps.md) | General | 🥈 | [Discuss](https://www.kaggle.com/discussions/general/580707) |
+| [Why Data Analysis is Important](./discussions/why-data-analysis-important.md) | Getting Started | 🥉 | [Discuss](https://www.kaggle.com/discussions/getting-started/560720) |
 
 ## Author
 
