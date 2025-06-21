@@ -1,11 +1,12 @@
 # Kaggle Discussions Archive
 
-A curated collection of my most insightful discussions from the Kaggle Community. These cover essential topics in machine learning, data analysis, and data visualization — written to help beginners and practitioners alike.
+A curated collection of my most insightful discussions from the Kaggle Community. These cover essential topics in machine learning, data analysis, and data visualization written to help beginners and practitioners alike.
 
 ## Contents
 
 | Title | Topic | Medals | Discussions |
 |-------|-------|--------|-------------|
+|[A Comprehensive Guide to Regression and Classification Models](./discussions/regression-and-classification-guide.md) | General | 🥉 | [Discuss](https://www.kaggle.com/discussions/general/585552) |
 | [Overview of Machine Learning Models](./discussions/overview-ml-models.md) | General | 🥉 | [Discuss](https://www.kaggle.com/discussions/general/585319) |
 | [Essential Visualizations in Data Analysis](./discussions/essential-visualizations.md) | General | 🥇 | [Discuss](https://www.kaggle.com/discussions/general/583451) |
 | [The Importance of Heatmaps in ML](./discussions/importance-of-heatmaps.md) | General | 🥈 | [Discuss](https://www.kaggle.com/discussions/general/580707) |
