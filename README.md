@@ -1,6 +1,6 @@
 # Kaggle Discussions Archive
 
-This repository serves as a curated archive of my most insightful contributions to the Kaggle Community, GitHub Discussions, and LinkedIn. Each article provides practical knowledge and structured guidance on key topics in **machine learning**, **data analysis**, and **visualization**—aimed at both newcomers and experienced practitioners.
+This repository serves as a curated archive of my most insightful contributions to the Kaggle Community, GitHub Discussions, and LinkedIn. Each article provides practical knowledge and structured guidance on key topics in **machine learning**, **data analysis**, and **visualization** aimed at both newcomers and experienced practitioners.
 
 The goal is to simplify complex concepts, promote best practices, and bridge the gap between theory and application.
 
